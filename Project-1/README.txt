@@ -2,7 +2,7 @@
 
 BLOG LINK: https://medium.com/@shalmaliwalimbe123/diversification-decoded-80e40dac96ce
 
-GITHUB REPO LINK: https://github.com/Shal96/RiskandReturns
+GITHUB REPO LINK: https://github.com/Shal96/RiskandReturnAnalysis/tree/master/Project-1
 
 Site used for scraping data: https://www.screener.in/
 
